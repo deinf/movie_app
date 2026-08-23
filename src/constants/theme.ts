@@ -14,7 +14,7 @@ export const Colors = {
 
   text: '#FFFFFF',
   textSecondary: '#94A3B8',
-  textTertiary: '#5C6B7F',
+  textTertiary: '#7D8CA1',
 
   rating: '#F5C518',
 } as const;
