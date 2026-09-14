@@ -2,6 +2,8 @@
 
 ![Movie App](assets/images/thumbnail.png)
 
+See design on [FIGMA](https://www.figma.com/design/wsS4qFnAVH4dBtx2gWke75/Movie-APP-TMBD?node-id=13-5446&t=aPQmT6LKCBngSO5u-0)
+
 This is an **Expo / React Native movie and TV browser** for iOS and Android,
 covering discovery, search and filtering, title detail with trailers and
 where-to-watch, a saved list, and release-day reminders. All content comes from
